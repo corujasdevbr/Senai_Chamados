@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Chamados.Web", "Senai.Chamados.Web\Senai.Chamados.Web.csproj", "{ABCD7628-CC55-4B95-BC01-C26A6DB1BB89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Chamados.Web", "Senai.Chamados.Web\Senai.Chamados.Web.csproj", "{1695D154-AAD4-4286-9086-E0C980CBB949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ABCD7628-CC55-4B95-BC01-C26A6DB1BB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABCD7628-CC55-4B95-BC01-C26A6DB1BB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABCD7628-CC55-4B95-BC01-C26A6DB1BB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABCD7628-CC55-4B95-BC01-C26A6DB1BB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1695D154-AAD4-4286-9086-E0C980CBB949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1695D154-AAD4-4286-9086-E0C980CBB949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1695D154-AAD4-4286-9086-E0C980CBB949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1695D154-AAD4-4286-9086-E0C980CBB949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {97FE7C26-94F3-4807-9A29-5B8795A0EB74}
+		SolutionGuid = {791C4A3B-8980-4F8A-B11A-3E7B047C0FB5}
 	EndGlobalSection
 EndGlobal
